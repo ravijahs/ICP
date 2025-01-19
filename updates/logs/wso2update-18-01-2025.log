@@ -1,0 +1,52 @@
+[18-01-2025 17:39:39] DEBUG - wso2update version: 1.7.15
+[18-01-2025 17:39:39] DEBUG - Executed wso2update on Sat, 18 Jan 2025 17:39:39 +0530
+
+[18-01-2025 17:39:39] DEBUG - Product Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0
+[18-01-2025 17:39:39] DEBUG - Product Updates Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates
+[18-01-2025 17:40:46] DEBUG - wso2update version: 1.7.15
+[18-01-2025 17:40:46] DEBUG - Executed wso2update on Sat, 18 Jan 2025 17:40:46 +0530
+
+[18-01-2025 17:40:46] DEBUG - Product Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0
+[18-01-2025 17:40:46] DEBUG - Product Updates Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates
+[18-01-2025 17:40:46] DEBUG - Access token expired, renewing access token...
+[18-01-2025 17:40:46] DEBUG - Invoking WSO2 Update token API
+[18-01-2025 17:40:48] DEBUG - Token invoked with status code 400.
+[18-01-2025 17:40:48] DEBUG - Error while authenticating with token: Error while renewing access token: Error while invoking token API: Error while obtaining access token: Error while processing response from server: Unable to parse JSON response: '': unexpected end of JSON input
+[18-01-2025 17:40:48] DEBUG - Authenticating with credentials for ravija@wso2.com
+[18-01-2025 17:40:48] INFO - Initializing updates with credentials
+[18-01-2025 17:40:54] INFO - Authenticating
+[18-01-2025 17:40:54] DEBUG - Invoking WSO2 Update token API
+[18-01-2025 17:40:59] DEBUG - Token invoked with status code 400.
+[18-01-2025 17:40:59] DEBUG - Error while getting access token. Attempt 1: Error while obtaining access token: Error while processing response from server: Unable to parse JSON response: '': unexpected end of JSON input
+[18-01-2025 17:41:09] INFO - Authenticating
+[18-01-2025 17:41:09] DEBUG - Invoking WSO2 Update token API
+[18-01-2025 17:41:12] DEBUG - Token invoked with status code 200.
+[18-01-2025 17:41:12] DEBUG - Updates configurations written to /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates/config.json
+[18-01-2025 17:41:12] INFO - Authenticated user ravija@wso2.com
+[18-01-2025 17:41:12] INFO - Checking for latest update tool version
+[18-01-2025 17:41:13] DEBUG - Checking for the latest update tool client completed successfully
+[18-01-2025 17:41:13] DEBUG - Validating update levels
+[18-01-2025 17:41:13] INFO - Checking for updates
+[18-01-2025 17:41:13] DEBUG - Check updates API URL: https://api.updates.wso2.com/updates/1.0.0/check-updates
+[18-01-2025 17:41:13] INFO - wso2-integration-control-plane-1.0.0.3 is the latest update level available for the product wso2-integration-control-plane-1.0.0
+[18-01-2025 17:41:35] DEBUG - wso2update version: 1.7.15
+[18-01-2025 17:41:35] DEBUG - Executed wso2update on Sat, 18 Jan 2025 17:41:35 +0530
+
+[18-01-2025 17:41:35] DEBUG - Product Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0
+[18-01-2025 17:41:35] DEBUG - Product Updates Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates
+[18-01-2025 17:41:47] DEBUG - wso2update version: 1.7.15
+[18-01-2025 17:41:47] DEBUG - Executed wso2update on Sat, 18 Jan 2025 17:41:47 +0530
+
+[18-01-2025 17:41:47] DEBUG - Product Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0
+[18-01-2025 17:41:47] DEBUG - Product Updates Directory : /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates
+[18-01-2025 17:41:47] DEBUG - Access token expired, renewing access token...
+[18-01-2025 17:41:47] DEBUG - Invoking WSO2 Update token API
+[18-01-2025 17:41:49] DEBUG - Token invoked with status code 200.
+[18-01-2025 17:41:49] DEBUG - Access token renewal completed successfully
+[18-01-2025 17:41:49] DEBUG - Updates configurations written to /home/ravija/Documents/wso2-integration-control-plane-1.0.0/updates/config.json
+[18-01-2025 17:41:49] INFO - Checking for latest update tool version
+[18-01-2025 17:41:49] DEBUG - Checking for the latest update tool client completed successfully
+[18-01-2025 17:41:49] DEBUG - Validating update levels
+[18-01-2025 17:41:49] INFO - Checking for updates
+[18-01-2025 17:41:49] DEBUG - Check updates API URL: https://api.updates.wso2.com/updates/1.0.0/check-updates
+[18-01-2025 17:41:50] INFO - wso2-integration-control-plane-1.0.0.3 is the latest update level available for the product wso2-integration-control-plane-1.0.0

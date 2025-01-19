@@ -1,0 +1,2 @@
+[2025-01-18 17:10:06,005]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-18 17:10:06,012]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://ravija:9743/login'

@@ -1,0 +1,94 @@
+[2025-01-07 10:25:48,039]  INFO {org.wso2.config.mapper.ConfigParser} - Initializing configurations with deployment configurations
+[2025-01-07 10:25:49,805]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-07 10:25:49,805]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://ravija:9743/login'
+[2025-01-07 10:26:14,913]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:19,784]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:24,784]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:29,810]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:34,785]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:39,779]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:40,029]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2025-01-07 10:26:44,805]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:49,777]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:54,774]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:26:59,780]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:04,799]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:09,804]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:14,776]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:19,805]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:24,806]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:29,775]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:27:34,797]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 4e7f71e2-cbeb-486a-b3f0-a29592be28df in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:15,778]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-07 10:30:15,782]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://ravija:9743/login'
+[2025-01-07 10:30:19,751]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:24,433]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:26,553]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2025-01-07 10:30:29,402]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:34,421]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:39,426]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:44,428]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:49,422]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:30:54,402]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 26c035fe-5d21-469c-b500-6ea8965c8069 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:33:39,544]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node d5460728-03ad-4d93-b53b-840b2546e2c7 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:33:44,429]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node d5460728-03ad-4d93-b53b-840b2546e2c7 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:33:49,415]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node d5460728-03ad-4d93-b53b-840b2546e2c7 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:37:00,627]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3b6cfc97-11e3-4b63-aa9c-a6ced0955871 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:50:34,923]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-07 10:50:34,928]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://ravija:9743/login'
+[2025-01-07 10:50:39,003]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:50:43,794]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:50:46,262]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2025-01-07 10:50:48,749]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:50:53,738]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:50:58,750]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:51:03,749]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:51:08,764]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:51:13,770]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 10:51:18,765]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node 3be73990-99c9-4da6-a897-f901da0c6f41 in group : default is registered. Inserting heartbeat information
+[2025-01-07 11:40:46,759]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2025-01-07 11:40:46,762]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://ravija:9743/login'
+[2025-01-07 11:40:51,818]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:40:56,508]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:01,507]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:06,471]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:11,492]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:16,493]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:21,463]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:26,482]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:31,473]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:35,836]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2025-01-07 11:41:36,501]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:41,490]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:46,461]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:51,467]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:41:56,461]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:01,472]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:06,456]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:11,479]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:16,482]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:21,478]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:26,460]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:31,459]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:36,481]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:41,457]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:46,456]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:51,456]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:42:56,485]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:01,457]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:06,457]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:11,485]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:16,453]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:21,462]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:26,459]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:31,487]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:36,460]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:41,454]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:46,453]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:51,460]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:43:56,481]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:44:01,453]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:44:06,478]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:44:11,453]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:44:16,455]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2025-01-07 11:44:21,473]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information

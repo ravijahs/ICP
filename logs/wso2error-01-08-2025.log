@@ -1,0 +1,20 @@
+[2025-01-08 09:25:04,747] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while starting up the server java.io.IOException: Failed to bind to 0.0.0.0/0.0.0.0:9743
+	at org.eclipse.jetty.server.ServerConnector.openAcceptChannel(ServerConnector.java:349)
+	at org.eclipse.jetty.server.ServerConnector.open(ServerConnector.java:310)
+	at org.eclipse.jetty.server.AbstractNetworkConnector.doStart(AbstractNetworkConnector.java:80)
+	at org.eclipse.jetty.server.ServerConnector.doStart(ServerConnector.java:234)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:401)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:155)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+Caused by: java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:89)
+	at org.eclipse.jetty.server.ServerConnector.openAcceptChannel(ServerConnector.java:344)
+	... 8 more
+
+[2025-01-08 10:20:13,689]  WARN {org.wso2.config.mapper.ConfigParser} - Configurations templates Changed in :repository/resources/conf/templates/server/www/conf/config.js.j2

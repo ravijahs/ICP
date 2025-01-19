@@ -1,0 +1,22 @@
+{
+	"username": "ravija@wso2.com",
+	"update-level": "3",
+	"channel": "full",
+	"environment": "live",
+	"backup-dir": "/home/ravija/.wso2-updates",
+	"product": {
+		"pattern": "wso2-integration-control-plane-1.0.0",
+		"name": "wso2-integration-control-plane",
+		"version": "1.0.0",
+		"backup": "/home/ravija/.wso2-updates/backup/wso2-integration-control-plane-1.0.0-3707daa2-9c06-4521-a3b0-0528b699b4bd",
+		"backup-size": 81938162
+	},
+	"service": {
+		"url": "https://api.updates.wso2.com",
+		"token-url": "https://api.updates.wso2.com/token",
+		"app-key": "Njg4bTVXTzFDSGlLWGFTT216MDJKOUxMRDYwYTpSOGJnZERXb2pLY0dTdVUyQWhDdzN3OWY3OGNh",
+		"access-token": "eyJ4NXQiOiJ4ek1kUHdzZ2RXZHIwSjBPaW1sQjltNnZfcEUiLCJraWQiOiJaamMxWlRWbVlUaGhNakpsTVRZMU5EZ3dObU13WW1GbE1HWTBObVF5TURjME5tWmpOV1ZtWkRCbE5qZzRNemN5TTJObVpUSmtORGs1TjJJNE5UZzVPUV9SUzI1NiIsInR5cCI6ImF0K2p3dCIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJyYXZpamFAd3NvMi5jb20iLCJhdXQiOiJBUFBMSUNBVElPTl9VU0VSIiwiYXVkIjpbIjY4OG01V08xQ0hpS1hhU09tejAySjlMTEQ2MGEiLCJjaG9yZW86ZGVwbG95bWVudDpwcm9kdWN0aW9uIl0sIm5iZiI6MTczNzIwMjMwOSwiYXpwIjoiNjg4bTVXTzFDSGlLWGFTT216MDJKOUxMRDYwYSIsIm9yZ19pZCI6IjExNzM3NDIyLTcwNzgtODUxMC0xMDc0LTgyMDg5MjYzMTE5NCIsImlzcyI6Imh0dHBzOlwvXC9hcGkuYXNnYXJkZW8uaW9cL3RcL3dzbzJcL29hdXRoMlwvdG9rZW4iLCJleHAiOjE3MzcyMDU5MDksIm9yZ19uYW1lIjoid3NvMiIsImlhdCI6MTczNzIwMjMwOSwianRpIjoiNWUyNzNmNDUtYThjZS00M2I1LTg4OTgtOWFkZDE3NTM4YzBhIiwiY2xpZW50X2lkIjoiNjg4bTVXTzFDSGlLWGFTT216MDJKOUxMRDYwYSJ9.hQik5nMzyv90go_-ERk55tDfyN47w-xUqwqr15T_qt_Qneseaw-Ez9EwmLPNTJShCyJjzlkoRLXBeDTOtBtW7MD4Ki-4st3cTOQdWqVnDwsA3YcL0MS_3bBt7xEw4_do3neJji6Sk9Xqh5-4B1kagSYcHVvXgeEO1bnkJp9pbBUElzIFM7ruk1kbFEL3z-1HDPrk5ZhStuDAxDReRoFNp16rK38bO1DO3IhKtQB_mkYbosp8gv7tZqaxszRS_MWW-5XIfAGSiw4jRWIG7GrwyRYdQtjJCYUssm8gtUa2QVcb4t3WK5fHd7ldlr0-dZfGV8mNSX2XPFGhaTVzbeSq2A",
+		"refresh-token": "63e2418a-abdd-3fca-98ca-85dbc4005c55"
+	},
+	"hotfixes": null
+}
