@@ -113,6 +113,9 @@ if [ ! -x "$JAVACMD" ] ; then
  exit 1
 fi
 
+
+DASHBOARD_HOME="/app"
+
 java \
 $JAVA_OPTS \
 -Dlog4j.configurationFile="$DASHBOARD_HOME/conf/log4j2.properties" \
