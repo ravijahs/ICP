@@ -15,6 +15,22 @@ RUN mkdir -p /app/logs /app/security && \
     chmod -R 755 /app && \
     chown -R root:root /app
 
+# Set up the keystore directory structure
+RUN mkdir -p /app/conf/security/
+
+# Copy the dashboard.jks file to the container
+COPY conf/security/dashboard.jks /app/conf/security/
+
+# Ensure correct permissions for the keystore
+RUN chmod 600 /app/conf/security/dashboard.jks
+
+RUN if [ -f /app/conf/security/dashboard.jks ]; then \
+      echo "Keystore found"; \
+    else \
+      echo "Keystore missing! Please provide the correct file." && exit 1; \
+    fi
+
+
 # Copy application files
 COPY . /app
 
