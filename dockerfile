@@ -21,9 +21,6 @@ COPY . /app
 # Set the working directory
 WORKDIR /app
 
-# Copy a keystore file (optional: replace with your actual keystore file)
-COPY keystore.jks /app/security/
-
 # Adjust file permissions for logs
 RUN chmod -R 777 /app/logs && \
     chmod +x /app/bin/dashboard.sh
